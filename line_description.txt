@@ -1,0 +1,7 @@
+Stazione_Origine
+Stazione_1 20
+Stazione_2 30
+Stazione_3 45
+Stazione_4 63
+Stazione_5 80
+
